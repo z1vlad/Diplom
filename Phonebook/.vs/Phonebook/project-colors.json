@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8583758-3ebb-4d06-b511-20b8e7ee44c0": {
+      "ProjectGuid": "d8583758-3ebb-4d06-b511-20b8e7ee44c0",
+      "DisplayName": "Phonebook",
+      "ColorIndex": 0
+    },
+    "5a3bfa1c-d590-4f8a-a848-47facf71fb71": {
+      "ProjectGuid": "5a3bfa1c-d590-4f8a-a848-47facf71fb71",
+      "DisplayName": "Repository",
+      "ColorIndex": 1
+    },
+    "2094b9d3-1427-4f41-aefd-298f6e4c260f": {
+      "ProjectGuid": "2094b9d3-1427-4f41-aefd-298f6e4c260f",
+      "DisplayName": "Services",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
